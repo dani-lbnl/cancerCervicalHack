@@ -1,14 +1,8 @@
 /*Program to cut an image into subimagens containing one cell or cluster of cells of the same type
 Algorithm:
-1. The user selects region of interest inside the micrograph - the program will automatically crop the correspondent volume of interest (in other words, this just crop a subimage that is inside the cylinder)
-2. The user selects a 2D-patch that is typical of the background of the solid, i.e. with intensities that are common (usually at the center
-	of the sample, as opposed to the border, which tend to be brighter  
-	
-3. The program filters the whole stack =>output: IBilat
-4. The program clumps the stack into regions by using pixel intensities, considering adjacency, i.e. by running a statistical region growing 
-	=>output: ISRM
-5. The program retrieves the a)training patch and b) its position, then uses intensity statistics of both of them to determine which are the gray levels
-	on ISRM that are likely to be part of the background
+1. The user selects an image within the target folder
+2. The user selects patches (=subimages) of the sample (=micrograph) and classify 
+3. The code will save the images with metadata about the classification and coordinate origin of the crop selection	
 Symbols:
  ui_ = user interface
 ----------------
