@@ -1,0 +1,10 @@
+Filename P N TPr FPr
+isbi_train_GT_im001.png 570 261574 1 0.171
+isbi_train_GT_im002.png 771 261373 1 0.1428
+isbi_train_GT_im003.png 549 261595 1 0.1396
+isbi_train_GT_im004.png 614 261530 1 0.133
+isbi_train_GT_im005.png 582 261562 1 0.1377
+isbi_train_GT_im006.png 813 261331 1 0.2078
+isbi_train_GT_im007.png 733 261411 1 0.1673
+isbi_train_GT_im008.png 1084 261060 1 0.2097
+isbi_train_GT_im009.png 1039 261105 1 0.1488
