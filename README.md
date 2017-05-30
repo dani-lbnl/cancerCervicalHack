@@ -1,4 +1,4 @@
-# Cervical Cancer Hack 2016 - Brazil
+# Cervical Cancer Hack 2015 - Brazil
 ![alt text](http://cricdatabase.com.br/wp-content/uploads/2016/06/logo.png)
 CRIC - A Science Without Borders Initiative
 
